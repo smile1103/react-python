@@ -1,0 +1,1257 @@
+{
+    "barcode": "IonCode_1239",
+    "sampleId": "SLCTD01005",
+    "reportDate": "31/03/2022",
+    "customer_data": {
+        "LabRefId": "SLCTD01005",
+        "ReferenceId": "REF22012505",
+        "CustomerName": "Good Shephard Veterinary Polyclinic",
+        "AnimalNameOrID": "Chloe",
+        "Species": "Canine",
+        "Breed": "Golden Retriever",
+        "CollectedDate": "25-11-2021",
+        "CollectedTime": "11AM",
+        "ReceivedDate": "25-11-2021",
+        "SampleType": "Blood",
+        "SampleVol": "4ml",
+        "Age": "2 years",
+        "Sex": "Female",
+        "Height": "",
+        "Weight": "30 kgs",
+        "KnownHealthConditions": "None",
+        "MotherBreed": "",
+        "FatherBreed": "",
+        "RefVet": "Dr. Jacob Mathew",
+        "RefClinic": "Good Shephard Veterinary Polyclinic",
+        "RefClinicAddress": "Shop No 1, GK Shubodaya Apts, RK Puram, Secunderabad, TS 500056",
+        "OwnerName": "Capt. George Paul",
+        "OwnerEmail": "",
+        "OwnerAddress": ""
+    },
+    "markerResults": [
+        {
+            "markerId": "AGSCTD006",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD017",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD126",
+            "class": "Disease",
+            "inheritancePattern": "A",
+            "type": "MNP",
+            "genotype": "GTCTGT/GTCTGT",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD040",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD091",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD092",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD069",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD001",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD073",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD059",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD114",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CTC/CTC",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD123",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD086",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD005",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD131",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD132",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD033",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "GTT/GTT",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD009",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD074",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD061",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD032",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD088",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD042",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD014",
+            "class": "Trait",
+            "inheritancePattern": "A",
+            "type": "SNP",
+            "genotype": "G/A",
+            "result": "positiveGenotype"
+        },
+        {
+            "markerId": "AGSCTD013",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/T",
+            "result": "carrierGenotype"
+        },
+        {
+            "markerId": "AGSCTD095",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD100",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD098",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD041",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD085",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD072",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD035",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "AAGA/AAGA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD120",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD121",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD122",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD094",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "MNP",
+            "genotype": "GAA/GAA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD004",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD065",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD071",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD099",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CCA/CCA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD055",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD008",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD141",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD142",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD067",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD089",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD076",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD083",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD102",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD057",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD029",
+            "class": "Trait",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD080",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CCA/CCA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD079",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD038",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "DEL",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD037",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD039",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "DEL",
+            "genotype": "ACCACC/ACCACC",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD077",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD134",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD130",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD002",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CCT/CCT",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD136",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD140",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "MNP",
+            "genotype": "ACC/ACC",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD107",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD108",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD020",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD146",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "GTTT/GTTT",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD124",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "GTCCAGGCGA/GTCCAGGCGA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD127",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD081",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "AGTT/AGTT",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD153",
+            "class": "Trait",
+            "inheritancePattern": "AD",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD003",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "TTTCC/TTTCC",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD064",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD115",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "MNP",
+            "genotype": "CTGA/CTGA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD109",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD090",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD104",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD096",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD051",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/T",
+            "result": "carrierGenotype"
+        },
+        {
+            "markerId": "AGSCTD129",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD075",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CACGGTGAGC/CACGGTGAGC",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD015",
+            "class": "Trait",
+            "inheritancePattern": "AD",
+            "type": "DEL",
+            "genotype": "TCC/TCC",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD044",
+            "class": "Trait",
+            "inheritancePattern": "AD",
+            "type": "DEL",
+            "genotype": "CCC/-",
+            "result": "positiveGenotype"
+        },
+        {
+            "markerId": "AGSCTD021",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD022",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD135",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD087",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD110",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD018",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "TCAAGGCA/TCAAGGCA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD139",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD145",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD144",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "TCT/TCT",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD026",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD049",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD050",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "./.",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD028",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD027",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD105",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD093",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD133",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD125",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD066",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD007",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD116",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD031",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD024",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD063",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD054",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD068",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD053",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "MNP",
+            "genotype": "TCCCAGACTTGCCCCAGGA/TCCCAGACTTGCCCCAGGA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD117",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "GAG/GAG",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD011",
+            "class": "Trait",
+            "inheritancePattern": "A",
+            "type": "MNP",
+            "genotype": "GCTCG/GCTCG",
+            "result": "positiveGenotype"
+        },
+        {
+            "markerId": "AGSCTD010",
+            "class": "Trait",
+            "inheritancePattern": "A",
+            "type": "SNP",
+            "genotype": "C/T",
+            "result": "positiveGenotype"
+        },
+        {
+            "markerId": "AGSCTD143",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD128",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD043",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD012",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD058",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD036",
+            "class": "Trait",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD119",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD148",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD082",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/T",
+            "result": "carrierGenotype"
+        },
+        {
+            "markerId": "AGSCTD151",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "DEL",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD152",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD150",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD149",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD103",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "./.",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD137",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD016",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD118",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD060",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD052",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD025",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD084",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/T",
+            "result": "carrierGenotype"
+        },
+        {
+            "markerId": "AGSCTD045",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "GCGGGCCGGGAGTGGT/GCGGGCCGGGAGTGGT",
+            "result": null
+        },
+        {
+            "markerId": "AGSCTD046",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD047",
+            "class": "Trait",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD138",
+            "class": "Disease",
+            "inheritancePattern": "AD",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD034",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD023",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD112",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD101",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "DEL",
+            "genotype": "CA/CA",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD111",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD062",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD019",
+            "class": "Disease",
+            "inheritancePattern": "AR",
+            "type": "SNP",
+            "genotype": "T/T",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD097",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD070",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD078",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD154",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "INS",
+            "genotype": "-/-",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD030",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD147",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "A/A",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD113",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD056",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "G/G",
+            "result": "noReport"
+        },
+        {
+            "markerId": "AGSCTD106",
+            "class": "Disease",
+            "inheritancePattern": "XR",
+            "type": "SNP",
+            "genotype": "C/C",
+            "result": "noReport"
+        }
+    ]
+}

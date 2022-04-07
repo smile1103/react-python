@@ -1,0 +1,42 @@
+{
+   "sampleList" : [
+       {
+          "sampleId" : "34235325",
+          "gender" : "M",
+          "animalSpecies" :
+          "animalBreed" :
+          "reportDate" :
+          "customerData" : {
+               "animalName" :
+	       "ownerName" :
+               "vetName" :
+               "clinicName" :
+               "customerName" :
+               "referenceId" :
+               "referenceDate" :
+           }
+          "markerResults" : [
+               {
+                  "markerId" : "AGSCPI001",
+		  "class" : "Disease",
+		  "inheritancePattern" : "XR",
+		  "type" : "DEL",
+                  "genotype" : "A/C",
+                  "result" : "noReport",
+               },
+               {
+                  "markerId" : "AGSCPI002",
+		  "class" : "Disease",
+		  "inheritancePattern" : "XR",
+		  "type" : "DEL",
+                  "genotype" : "A/C",
+                  "result" : "noReport",
+               },
+            ]
+        },
+
+        {
+
+        }
+
+     ]

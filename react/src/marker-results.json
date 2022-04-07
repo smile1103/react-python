@@ -1,0 +1,56 @@
+{
+    "sampleList": [{
+        "sampleId": "34235325",
+        "gender": "M",
+        "barcodeName": "IonCode_1345",
+        "panel": "CanineTDv1",
+        "animalSpecies": "Canine",
+        "animalBreed": "",
+        "reportDate": "01/10/2021",
+        "referenceId": "REF22012354",
+        "refDate": "01/10/2021",
+        "customerData": {
+            "animalName": "frfre ",
+            "ownerName": " rr g rrg",
+            "vetName": "r gr grr r",
+            "clinicName": " rgr rgr",
+            "customerName": " rgrgr",
+            "referenceId": " rgrg",
+            "referenceDate": "fw ff wfw"
+        },
+        "markerResults": [{
+                "markerId": "AGSCPI001",
+                "class": "Disease",
+                "inheritancePattern": "XR",
+                "type": "DEL",
+                "genotype": "A/C",
+                "result": "noReport"
+            },
+            {
+                "markerId": "AGSCPI002",
+                "class": "Disease",
+                "inheritancePattern": "XR",
+                "type": "DEL",
+                "genotype": "A/C",
+                "result": "noReport"
+            }
+        ],
+        "reportingAndInterpretation": {
+            "run_game": "AgriSeq Run 16122021",
+            "original_run_date": "Thursday, Dec 12th 2021",
+            "report_name": "AgriSeq Analysis 1812",
+            "dependencies": [
+                "AgriSum Toolkit #538",
+                "Variant Caller #515",
+                "Coverage Analysis #511"
+            ],
+            "latest_plugin_run_date": "Monday, Dec 16th 2021",
+            "total_samples_in_run": "384",
+            "total_panels_in_run": "3",
+            "reports_generated": "200 of 384",
+            "customer_data_uploaded": "232 of 384",
+            "customers_in_run": "3",
+            "samples_failed": "0 of 384"
+        }
+    }]
+}
